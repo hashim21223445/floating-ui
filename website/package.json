@@ -43,7 +43,7 @@
     "rehype-pretty-code": "^0.12.3",
     "rehype-slug": "^4.0.1",
     "remark-smartypants": "^2.0.0",
-    "sharp": "^0.32.6",
+    "sharp": "^0.33.4",
     "shikiji": "^0.9.19",
     "tailwind-merge": "^1.10.0",
     "unist-util-visit": "^2.0.3",
