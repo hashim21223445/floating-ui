@@ -18,7 +18,7 @@
     "proseWrap": "always"
   },
   "devDependencies": {
-    "@svgr/webpack": "^5.5.0",
+    "@svgr/webpack": "^6.0.0",
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.4",
     "prettier-plugin-tailwindcss": "^0.6.5",
