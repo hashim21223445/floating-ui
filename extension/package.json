@@ -39,7 +39,7 @@
     "@vitejs/plugin-react": "^4.2.1",
     "config": "workspace:*",
     "postcss-nested": "^6.0.1",
-    "storybook": "^7.6.7",
+    "storybook": "^10.6.5",
     "vite-bundle-visualizer": "^1.0.0"
   }
 }

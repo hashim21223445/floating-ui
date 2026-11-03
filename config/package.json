@@ -21,8 +21,8 @@
   "module": "dist/src/index.mjs",
   "types": "dist/src/index.d.mts",
   "devDependencies": {
-    "glob": "^10.3.10",
+    "glob": "^14.0.2",
     "minimist": "^1.2.8",
-    "zx": "^7.2.3"
+    "zx": "^8.8.5"
   }
 }
